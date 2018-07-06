@@ -7,3 +7,4 @@ const getArea = r => {
     return r*r*PI
 }
 export { getArea }
+console.log(0909)
